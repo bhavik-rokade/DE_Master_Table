@@ -1,0 +1,11 @@
+prefix,name,phonenumber,emailid,zipcode,city,state,country,status
+dr.,alice roberts,001-467-622-397525748,christopher48@example.net,90290,williamsfort,vermont,cocos (keeling) islands,True
+ind.,leon luna,(646)298-3743127,rebecca75@example.com,29784,boothberg,maine,lao people's democratic republic,True
+ind.,karen jones,(001)495-1971,vchang@example.org,79979,new tamaramouth,ohio,latvia,True
+mr.,steven smith,001-714-029-353940986,richardwilliams@example.org,84325,longberg,rhode island,hong kong,True
+miss,alicia kelly,935-361-0441,cholland@example.com,89913,port aprilmouth,new york,swaziland,True
+ms.,william davis,049.159.1350,kmoody@example.net,64669,cynthiaton,kentucky,south africa,False
+miss,sarah chapman,+1-994-620-88111931,rebecca93@example.com,81738,michaelchester,north carolina,morocco,True
+miss,bryan rowe,923.341.41525376,fparker@example.org,37767,east miranda,kentucky,congo,False
+dr.,jennifer mathis,441-908-9235108,christophergonzales@example.net,75476,huertastad,arizona,aruba,True
+dr.,jacob benson,(387)085-9124,elizabethhart@example.org,87692,west susanton,delaware,brunei darussalam,False

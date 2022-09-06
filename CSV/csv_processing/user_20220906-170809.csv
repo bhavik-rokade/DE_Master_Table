@@ -1,0 +1,11 @@
+prefix,firstname,lastname,phonenumber,emailid,city,state,zipcode,country,status
+Ms.,James,Rice,+1-408-512-4266x95318,pduran@example.org,Port Paula,Pennsylvania,36501,Cyprus,True
+Misc.,Brooke,Sanchez,001-907-523-7234x498,denise93@example.net,Jonestown,Ohio,34373,Nepal,True
+Mx.,Amanda,Mitchell,186-405-1079x300,tlutz@example.org,East Michaelhaven,Louisiana,76493,Canada,False
+Mx.,Christopher,White,+1-405-335-1230,allenmegan@example.com,Sullivanshire,Hawaii,23181,Grenada,False
+Mr.,Joanne,Guzman,+1-678-082-8134,pboyd@example.org,Port Randall,Utah,21580,Afghanistan,True
+Mr.,Kayla,Johnson,(267)002-3604x1365,colemanlindsey@example.com,Vaughanburgh,Montana,54356,Jamaica,True
+Dr.,Christopher,Holmes,884.206.5505x3949,johnsonjohn@example.org,North William,New Hampshire,12841,Cape Verde,True
+Dr.,Andrew,Scott,768.190.7287,john93@example.org,Christophermouth,New York,94258,Brazil,True
+Dr.,Christine,Myers,001-397-318-3689,brownjoseph@example.com,Powellport,North Dakota,18751,Kazakhstan,True
+Ind.,Stacy,Hayes,883-825-4340,agreen@example.com,East Mackenzie,North Dakota,26649,Korea,False

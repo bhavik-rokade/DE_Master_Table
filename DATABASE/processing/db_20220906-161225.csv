@@ -1,0 +1,11 @@
+prefix,name,phonenumber,emailid,city,state,zipcode,country,status
+IND.,Hunter Brown,781.564.5146x78492,maryforbes@example.com,West Lauren,Illinois,59862,Cameroon,{FALSE}
+MISC.,Crystal Smith,(992)814-9586x2773,micheal08@example.com,Bishopberg,New Hampshire,93522,Kyrgyz Republic,{false}
+DR.,Martin Robinson,(689)947-8373,robert11@example.com,North Kristin,Missouri,39586,Northern Mariana Islands,{FALSE}
+DR.,Jacob Garcia,986-543-9579x08677,camachomichael@example.net,Karenport,Tennessee,05959,Azerbaijan,{false}
+MRS.,Anna Hickman,155.479.3057x73830,casejulie@example.org,Lake Douglas,Kentucky,38305,Portugal,{FALSE}
+DR.,Eric Richardson,785-386-0942x08254,dawncosta@example.net,Holtfort,Utah,07188,Faroe Islands,{FALSE}
+DR.,Jennifer Hunt,001-226-930-8151,patriciastevens@example.com,North Nicholas,North Dakota,11086,Tuvalu,{True}
+MISS,Samantha Cooper,+1-769-444-4197,katherine21@example.net,New James,Utah,97729,French Polynesia,{false}
+MISC.,Angel Thompson,990.098.2629x5140,srivera@example.org,Port Haileymouth,Hawaii,10876,Colombia,{false}
+IND.,Robert Lee,(690)142-5295,lisahumphrey@example.net,Port Miranda,Georgia,76835,Gibraltar,{TRUE}
